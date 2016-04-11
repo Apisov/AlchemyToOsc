@@ -80,3 +80,11 @@ Thumbs.db
 *.dll
 *.lib
 *.sbr
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/alchemy_to_osc.iml
+.idea/modules/alchemy_to_osc_main.iml
+.idea/modules/alchemy_to_osc_test.iml
