@@ -5,7 +5,6 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
 *.war
 *.ear
 
@@ -78,7 +77,6 @@ Thumbs.db
 *.ilk
 *.log
 *.dll
-*.lib
 *.sbr
 .idea/.name
 .idea/compiler.xml
