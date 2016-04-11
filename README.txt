@@ -27,3 +27,8 @@ For now...it's very at the begining, totally not finished. But if someone will b
 
 Also the biggest problem on work with this project - limitation of Alchemy service. Only 1000 requsts per day in FREE plan.
 
+
+For building this project you need Idea and Java:
+https://www.jetbrains.com/idea/
+
+After downloading and instaling Idea you can just import this project.
