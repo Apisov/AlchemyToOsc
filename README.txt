@@ -31,4 +31,8 @@ Also the biggest problem on work with this project - limitation of Alchemy servi
 For building this project you need Idea and Java:
 https://www.jetbrains.com/idea/
 
+You could stack with JAVA_HOME problem:
+So here is solution:
+http://stackoverflow.com/questions/31215452/intellij-idea-importing-gradle-project-getting-java-home-not-defined-yet
+
 After downloading and instaling Idea you can just import this project.
